@@ -9,6 +9,6 @@
 
     [![G-mail](https://img.shields.io/badge/Gmail-sdmytrov11@gmail.com-red?style=plastic&logo=gmail)](mailto:sdmytrov11@gmail.com)
     [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-smashny11/)
-    [![Telegram](https://img.shields.io/badge/Telegram-%40BabenkoAnton?style=plastic&logo=telegram&link=https://t.me/artemzimovets)]([https://t.me/dv_s](https://t.me/dv_smashny))
+    [![Telegram](https://img.shields.io/badge/Telegram-%40DmytroSmashny?style=plastic&logo=telegram&link=https://t.me/dv_smashny)](https://t.me/dv_smashny)
     [![Rezume](https://img.shields.io/badge/-Rezume-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.canva.com/design/DAF_ry8iaQ4/0j8DakhUrIA3QpSvsUZK_Q/view?utm_content=DAF_ry8iaQ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
