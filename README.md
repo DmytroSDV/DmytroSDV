@@ -6,7 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-DmytroSDV/DmytroSDV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<br>
+- [![G-mail](https://img.shields.io/badge/Gmail-sdmytrov11@gmail.com-red?style=plastic&logo=gmail&link=mailto:sdmytrov11@gmail.com)](mailto:sdmytrov11@gmail.com)
+
+
+<br>
