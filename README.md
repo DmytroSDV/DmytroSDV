@@ -8,7 +8,7 @@
 
 <br>
 <br>
-- [![G-mail](https://img.shields.io/badge/Gmail-sdmytrov11@gmail.com-red?style=plastic&logo=gmail&link=mailto:sdmytrov11@gmail.com)](mailto:sdmytrov11@gmail.com)
+[![G-mail](https://img.shields.io/badge/Gmail-sdmytrov11@gmail.com-red?style=plastic&logo=gmail)](mailto:sdmytrov11@gmail.com)
 
 
 <br>
